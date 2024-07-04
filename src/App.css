@@ -1,29 +1,4 @@
 .App {
   text-align: center;
   height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-.form{
-  padding: 20px 40px;
-  width: 400px;
-  height: auto;
-  display: flex;
-  flex-direction: column;
-  box-shadow: -3px 3px 100px black;
-}
-
-.label{
-  font-size: medium;
-  font-weight: 700;
-  text-align: left;
-  background-color: aquamarine;
-}
-.field{
-  height: 40px;
-  margin-bottom: 15px;
-}
-.err{
-  color: red;
 }
